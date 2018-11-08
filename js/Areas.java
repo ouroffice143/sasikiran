@@ -1,3 +1,6 @@
+/**
+*areas
+*/
 package com.reg.js;
 
 import java.io.BufferedReader;
